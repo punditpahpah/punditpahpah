@@ -1,123 +1,111 @@
-# Hi there, I'm Pundit Pahpah! 👋
+# 👋 Hi there, I'm Pundit Pahpah!
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for solving complex problems and building innovative solutions. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a passionate developer with a love for solving complex problems and building innovative solutions. 🚀 
+Here's a little bit about me:
+
+---
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, Python, Java, C++, Solidity
-- **Frameworks:** React, Node.js, Django, Spring Boot
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools:** Git, Docker, Kubernetes, Jenkins
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+
+📦 **Frameworks & Libraries:** React, Node.js, Django, Spring Boot  
+🗄 **Databases:** MySQL, MongoDB, PostgreSQL  
+🛠 **Tools & DevOps:** Git, Docker, Kubernetes, Jenkins  
+
+---
 
 ## 🌱 Currently Learning
 
-- Advanced Machine Learning Techniques
-- Cloud Computing with AWS and Azure
-- Rust Programming Language
+- 📊 **Advanced Machine Learning Techniques**
+- ☁️ **Cloud Computing with AWS & Azure**
+- 🦀 **Rust Programming Language**
+
+---
 
 ## 🏆 Achievements
 
-- Contributed to several open-source projects.
-- Developed and maintained multiple full-stack applications.
-- Active participant in coding competitions and hackathons.
+✅ Contributed to several **open-source projects**  
+✅ Developed and maintained **multiple full-stack applications**  
+✅ Active participant in **coding competitions and hackathons**  
 
-## 📫 How to Reach Me
+---
 
-- **Email:** punditpah@gmail.com
-- **Twitter:** [@punditpahpah](https://twitter.com/punditpahpah)
+## 📫 Connect with Me
+
+📧 **Email:** [punditpah@gmail.com](mailto:punditpah@gmail.com)  
+🐦 **Twitter:** [@punditpahpah](https://twitter.com/punditpahpah)  
+
+---
 
 ## 📈 GitHub Stats
 
-![Pundit Pahpah's GitHub stats](https://github-readme-stats.vercel.app/api?username=punditpahpah&show_icons=true&theme=radical)
+![Pundit Pahpah's GitHub stats](https://github-readme-stats.vercel.app/api?username=punditpahpah&show_icons=true&theme=radical)  
 
-## 🚀 Projects
+---
 
-- **Project 1:** 
+## 🚀 Featured Projects
 
-Advanced OCR Project for RoK Game Data
+**Project 1:** 
 
-    Project Scope
-Extract and analyze in-game data from Rise of Kingdoms (RoK).
-Automate real-time data collection from screenshots or video streams.
-Process data for leaderboard tracking, event monitoring, or player stats analysis.
+### 🔍 Advanced OCR Project for RoK Game Data
 
-   OCR Technology & Approaches
-Used Tesseract OCR for initial text extraction.
-Implement EasyOCR or PaddleOCR for better accuracy with multilingual text.
-Fine-tune OCR models for game-specific fonts and numbers.
+📌 **Project Scope:**  
+✔️ Extract and analyze in-game data from Rise of Kingdoms (RoK).  
+✔️ Automate real-time data collection from screenshots or video streams.  
+✔️ Process data for leaderboard tracking, event monitoring, or player stats analysis.  
 
-  Image Preprocessing for Accuracy
-Denoising & Sharpening: Remove blur, enhance text edges.
-Adaptive Thresholding: Improve text detection on different backgrounds.
-Edge Detection & Contour Analysis: Identify UI elements and extract structured data.
+⚙️ **Technology Used:**  
+- Tesseract OCR, EasyOCR, PaddleOCR  
+- Image Preprocessing (Denoising, Sharpening, Adaptive Thresholding)  
+- Edge Detection & Contour Analysis  
 
-HERE YOU CAN CHECK THE PROJECT
-https://github.com/punditpahpah/OCR-RokGame-Scanner.git
+🔗 **[Check the Project](https://github.com/punditpahpah/OCR-RokGame-Scanner.git)**
 
+---
 
-- **Project 2:** 
+**Project 2:** 
 
-NFT Minting Engine for CHRLE
+### 🎨 NFT Minting Engine for CHRLE
 
-  Blockchain Integration
-Implemented smart contract standards (ERC-721 for Ethereum).
+📌 **Blockchain Integration:**  
+✔️ Smart contract development using **ERC-721**  
+✔️ Metadata structuring, minting logic, and royalty mechanisms  
+✔️ Security-focused contract with **gas optimization**  
 
-  Smart Contract Development
-Define metadata structure (name, description, attributes, etc.).
-Implemented minting logic (public mint, whitelist mint, free mint, etc.).
-Set royalty mechanisms for secondary sales.
-Security checks to prevent exploits and re-entrancy attacks.
+🖼 **NFT Minting Features:**  
+✔️ **Batch & Single Minting** support  
+✔️ Seamless **wallet connection** (MetaMask, WalletConnect)  
+✔️ **IPFS-based metadata storage**  
 
-  Minting Mechanics
-Support for batch minting and single minting.
-Gas optimization strategies (lazy minting, off-chain metadata).
-Adjustable mint price and supply cap.
+🔗 **[Check the Project](https://github.com/punditpahpah/CHRLE-Nft-Minting.git)**
 
-  User Interface (UI/UX)
-Seamless wallet connection (MetaMask, WalletConnect, Phantom, etc.).
-Intuitive minting page with real-time transaction updates.
-Progress bar for total supply vs. minted count.
+---
 
-  IPFS & Metadata Storage
-Store NFT assets securely using IPFS 
+**Project 3:** 
 
-HERE YOU CAN CHECK THE PROJECT
-https://github.com/punditpahpah/CHRLE-Nft-Minting.git
+### 💘 Dating App for League Connect
 
-- **Project 3:**
+📌 **Core Features:**  
+✔️ **User Authentication** (Email, Google, Apple)  
+✔️ **Matching Algorithm** (AI-based or Tinder-style swipe)  
+✔️ **Real-time Messaging & Voice/Video Calls**  
+✔️ **Location-based Matching & Premium Features**  
 
-Dating app for League Connect using Flutter
+⚙️ **Tech Stack:**  
+- **Frontend:** Flutter (Dart)  
+- **Backend:** Firebase, Node.js  
+- **Database:** Firestore, PostgreSQL  
+- **Payments:** Stripe, PayPal  
 
-  Core Features
-User Authentication – Sign up/login using email, phone number, Google, or Apple authentication.
-Profile Creation & Customization – Users can add photos, bio, interests, and preferences.
-Matching Algorithm – Implement AI-based or swipe-based matching (Tinder-style).
-Chat & Messaging – Real-time messaging with text, GIFs, voice notes, and media sharing.
-Location-Based Matching – Show nearby users using geolocation services.
-Swipe & Like System – Allow users to swipe left (pass) or right (like) to connect.
-Premium Features – Boost profile, unlimited swipes, Super Likes, or incognito mode.
-Video & Voice Calls – In-app calling for better engagement.
-Verification System – ID verification or selfie verification to prevent fake profiles.
-Events & Community Features – Virtual speed dating, group chats, or community forums.
+💰 **Monetization:** Subscription Plans, In-App Purchases, Ads  
 
+🔗 **[Check the Project](https://github.com/punditpahpah/league-connect.git)**
 
-  Tech Stack
-Frontend: Flutter (Dart) for cross-platform support (iOS & Android).
-Backend: Firebase, Node.js, or a custom backend with GraphQL/REST API.
-Database: Firestore, PostgreSQL, or MongoDB.
-Real-Time Features: WebSockets or Firebase for real-time chat.
-Payment Integration: Stripe, PayPal, or Google/Apple Pay for subscriptions.
-AI/ML Integration: AI-based matchmaking and profile recommendations.
+---
 
-
-  Monetization Strategies
-Subscription Plans (Freemium Model) – Premium memberships with extra features.
-In-App Purchases – Super Likes, Boosts, and other paid perks.
-Ads & Partnerships – Partner with brands for sponsored content.
-
-HERE YOU CAN CHECK THE PROJECT
-https://github.com/punditpahpah/league-connect.git
-
-Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on a project or just have a chat!
-
-Thanks for stopping by!
+🚀 Feel free to explore my repositories and reach out if you'd like to collaborate! Thanks for stopping by! 🙌
