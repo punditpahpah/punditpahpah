@@ -13,7 +13,7 @@ Here's a little bit about me:
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 
-🧑‍💻 **Languages:** JavaScript, Python, Java, C++, Solidity
+🧑‍💻 **Languages:** JavaScript, Python, Java, C++, Solidity  
 📦 **Frameworks & Libraries:** React, Node.js, Django, Spring Boot  
 🗄 **Databases:** MySQL, MongoDB, PostgreSQL  
 🛠 **Tools & DevOps:** Git, Docker, Kubernetes, Jenkins  
