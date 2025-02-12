@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Pundit Pahpah!
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for solving complex problems and building innovative solutions. 🚀
+<h1> Welcome to my GitHub profile! I'm a passionate developer with a love for solving complex problems and building innovative solutions. 🚀 Here's a little bit about me: </h1>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZwYnIweWUzc2xmdW1zbTRvdzN0YTRteTR6Ym55Zzc0MWluczg2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" width="400" alt="Highly Detailed 3D-Rendered Digital Art of Developer at Work">
@@ -13,7 +13,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for solving
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,java,cpp,solidity,react,nodejs,django,spring,mysql,mongodb,postgres,docker,kubernetes,git,jenkins,aws,azure,rust,hardhat,web3,ethers,ipfs,graphql&perline=6" alt="Tech Stack">
 </p>
- ☘️ **Languages:** JavaScript, Python, Java, C++, Solidity  
+
+
+☘️ **Languages:** JavaScript, Python, Java, C++, Solidity  
 📦 **Frameworks & Libraries:** React, Node.js, Django, Spring Boot, Web3.js, ethers.js, TailwindCSS, Hardhat, Truffle, Next.js, Express.js  
 🗄 **Databases:** MySQL, MongoDB, PostgreSQL, Firebase, Redis  
 🛠 **Tools & DevOps:** Git, Docker, Kubernetes, Jenkins, Infura, Alchemy, IPFS, GraphQL, CI/CD Pipelines  
