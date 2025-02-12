@@ -1,22 +1,23 @@
+```md
 # 👋 Hi there, I'm Pundit Pahpah!
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for solving complex problems and building innovative solutions. 🚀 
-Here's a little bit about me:
+Welcome to my GitHub profile! I'm a passionate developer with a love for solving complex problems and building innovative solutions. 🚀
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Developer at Work">
+</p>
 
 ---
 
 ## 🔧 Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,solidity,react,nodejs,django,spring,mysql,mongodb,postgres,docker,kubernetes,git,jenkins,aws,azure,rust&perline=6" alt="Tech Stack">
+</p>
 
-🧑‍💻 **Languages:** JavaScript, Python, Java, C++, Solidity  
-📦 **Frameworks & Libraries:** React, Node.js, Django, Spring Boot  
+📦 **Frameworks & Libraries:** React, Node.js, Django, Spring Boot, Web3.js, ethers.js, TailwindCSS  
 🗄 **Databases:** MySQL, MongoDB, PostgreSQL  
-🛠 **Tools & DevOps:** Git, Docker, Kubernetes, Jenkins  
+🛠 **Tools & DevOps:** Git, Docker, Kubernetes, Jenkins, Hardhat, Truffle, Infura, Alchemy  
 
 ---
 
@@ -30,6 +31,10 @@ Here's a little bit about me:
 
 ## 🏆 Achievements
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&lines=🏆+Achievements;+🚀+Open-source+Contributor;+💡+Hackathon+Winner;+🔥+Built+Multiple+Full-stack+Apps" />
+</p>
+
 ✅ Contributed to several **open-source projects**  
 ✅ Developed and maintained **multiple full-stack applications**  
 ✅ Active participant in **coding competitions and hackathons**  
@@ -41,17 +46,18 @@ Here's a little bit about me:
 📧 **Email:** [punditpah@gmail.com](mailto:punditpah@gmail.com)  
 🐦 **Twitter:** [@punditpahpah](https://twitter.com/punditpahpah)  
 
+![Profile Visits](https://komarev.com/ghpvc/?username=punditpahpah&label=Profile%20Views&color=blue&style=flat)
+
 ---
 
 ## 📈 GitHub Stats
 
 ![Pundit Pahpah's GitHub stats](https://github-readme-stats.vercel.app/api?username=punditpahpah&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=punditpahpah&theme=radical)
 
 ---
 
 ## 🚀 Featured Projects
-
-**Project 1:** 
 
 ### 🔍 Advanced OCR Project for RoK Game Data
 
@@ -69,8 +75,6 @@ Here's a little bit about me:
 
 ---
 
-**Project 2:** 
-
 ### 🎨 NFT Minting Engine for CHRLE
 
 📌 **Blockchain Integration:**  
@@ -86,8 +90,6 @@ Here's a little bit about me:
 🔗 **[Check the Project](https://github.com/punditpahpah/CHRLE-Nft-Minting.git)**
 
 ---
-
-**Project 3:** 
 
 ### 💘 Dating App for League Connect
 
@@ -109,4 +111,7 @@ Here's a little bit about me:
 
 ---
 
-🚀 Feel free to explore my repositories and reach out if you'd like to collaborate! Thanks for stopping by! 🙌
+🚀 **Let's Build Something Amazing Together!** 💡✨  
+💬 Feel free to **connect & collaborate** with me!
+```
+
