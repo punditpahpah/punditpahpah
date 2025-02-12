@@ -12,12 +12,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for solving
 ## 🔧 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,solidity,react,nodejs,django,spring,mysql,mongodb,postgres,docker,kubernetes,git,jenkins,aws,azure,rust&perline=6" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,solidity,react,nodejs,django,spring,mysql,mongodb,postgres,docker,kubernetes,git,jenkins,aws,azure,rust,hardhat,web3,ethers,ipfs,graphql&perline=6" alt="Tech Stack">
 </p>
 
-📦 **Frameworks & Libraries:** React, Node.js, Django, Spring Boot, Web3.js, ethers.js, TailwindCSS  
-🗄 **Databases:** MySQL, MongoDB, PostgreSQL  
-🛠 **Tools & DevOps:** Git, Docker, Kubernetes, Jenkins, Hardhat, Truffle, Infura, Alchemy  
+📦 **Frameworks & Libraries:** React, Node.js, Django, Spring Boot, Web3.js, ethers.js, TailwindCSS, Hardhat, Truffle, Next.js, Express.js  
+🗄 **Databases:** MySQL, MongoDB, PostgreSQL, Firebase, Redis  
+🛠 **Tools & DevOps:** Git, Docker, Kubernetes, Jenkins, Infura, Alchemy, IPFS, GraphQL, CI/CD Pipelines  
 
 ---
 
@@ -52,8 +52,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for solving
 
 ## 📈 GitHub Stats
 
-![Pundit Pahpah's GitHub stats](https://github-readme-stats.vercel.app/api?username=punditpahpah&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=punditpahpah&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=punditpahpah&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punditpahpah&theme=radical" />
+</p>
 
 ---
 
