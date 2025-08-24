@@ -1,123 +1,90 @@
-# 👋 Hi there, I'm Pundit Pahpah!
+👋 Hey, I'm Pah!
 
-<p><h3> Welcome to my GitHub profile! I'm a passionate developer with a love for solving complex problems and building innovative solutions. 🚀</h3></p>
+Building ideas into reality | Developer | Innovator | Lifelong Learner ✨
 
-<h3> Here's a little bit about me: </h3> <br><br><br><br>
+🗂️ Overview
 
+Welcome to my GitHub profile!
+Think of this space as a digital organizer of my skills, projects, and passions.
+Everything is neatly sorted into folders 📂 so you can explore with ease.
 
+📂 About Me
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZwYnIweWUzc2xmdW1zbTRvdzN0YTRteTR6Ym55Zzc0MWluczg2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" width="400" alt="Highly Detailed 3D-Rendered Digital Art of Developer at Work">
-</p>
+💻 Passionate about problem-solving & building innovative solutions
 
----
+🚀 Always exploring new technologies & frameworks
 
-## 🔧 Technologies & Tools
+🧩 Love working on complex projects that challenge creativity
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,solidity,react,nodejs,django,spring,mysql,mongodb,postgres,docker,kubernetes,git,jenkins,aws,azure,rust,hardhat,web3,ethers,ipfs,graphql&perline=6" alt="Tech Stack">
-</p>
+📂 Tech Stack
+Languages:
+  - JavaScript, Python, Java, C++, Solidity  
 
+Frameworks & Libraries:
+  - React, Node.js, Next.js, Django, Spring Boot, TailwindCSS, Web3.js, ethers.js  
 
+Databases:
+  - MySQL, PostgreSQL, MongoDB, Firebase, Redis  
 
-☘️ **Languages:** JavaScript, Python, Java, C++, Solidity  
-📦 **Frameworks & Libraries:** React, Node.js, Django, Spring Boot, Web3.js, ethers.js, TailwindCSS, Hardhat, Truffle, Next.js, Express.js  
-🗄 **Databases:** MySQL, MongoDB, PostgreSQL, Firebase, Redis  
-🛠 **Tools & DevOps:** Git, Docker, Kubernetes, Jenkins, Infura, Alchemy, IPFS, GraphQL, CI/CD Pipelines  
+DevOps & Tools:
+  - Git, Docker, Kubernetes, Jenkins, Hardhat, Truffle, Infura, Alchemy, IPFS, GraphQL
 
----
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,python,java,cpp,solidity,react,nodejs,django,nextjs,tailwind,mysql,mongodb,postgres,redis,docker,kubernetes,git,jenkins,aws,azure,rust,hardhat,web3,ethers,ipfs,graphql&perline=8" alt="Tech Stack"/> </p>
+📂 Currently Exploring
 
-## 🌱 Currently Learning
+📊 Advanced Machine Learning
 
-- 📊 **Advanced Machine Learning Techniques**
-- ☁️ **Cloud Computing with AWS & Azure**
-- 🦀 **Rust Programming Language**
+☁️ Cloud Computing (AWS & Azure)
 
----
+🦀 Rust programming
 
-## 🏆 Achievements
+📂 Achievements
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&lines=🏆+Achievements;+🚀+Open-source+Contributor;+💡+Hackathon+Winner;+🔥+Built+Multiple+Full-stack+Apps" />
-</p>
+✅ Open-source contributor
 
-✅ Contributed to several **open-source projects**  
-✅ Developed and maintained **multiple full-stack applications**  
-✅ Active participant in **coding competitions and hackathons**  
+✅ Built multiple full-stack apps
 
----
+✅ Hackathon participant & winner
 
-## 📫 Connect with Me
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&width=600&height=50&lines=🚀+Hackathon+Winner;💡+Open-source+Contributor;🔥+Full-stack+App+Builder" /> </p>
+📂 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=punditpahpah&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=punditpahpah&theme=tokyonight" /> </p>
+📂 Projects Showcase
+🔍 OCR for RoK Game Data
 
-📧 **Email:** [punditpah@gmail.com](mailto:punditpah@gmail.com)  
-🐦 **Twitter:** [@punditpahpah](https://twitter.com/punditpahpah)  
+📎 OCR-RokGame-Scanner
 
-![Profile Visits](https://komarev.com/ghpvc/?username=punditpahpah&label=Profile%20Views&color=blue&style=flat)
+➡️ Extract in-game data using Tesseract / EasyOCR / PaddleOCR
+➡️ Real-time data automation for events & leaderboards
 
----
+🎨 NFT Minting Engine – CHRLE
 
-## 📈 GitHub Stats
+📎 CHRLE-Nft-Minting
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=punditpahpah&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punditpahpah&theme=radical" alt="GitHub Streak"/>
-</p>
+➡️ ERC-721 smart contracts with batch/single minting
+➡️ IPFS metadata & royalty mechanisms
 
----
+💘 League Connect – Dating App
 
-## 🚀 Featured Projects
+📎 league-connect
 
-### 🔍 Advanced OCR Project for RoK Game Data
+➡️ Swipe-based matching algorithm
+➡️ Real-time chat + video calls
+➡️ Location-based & premium features
 
-📌 **Project Scope:**  
-✔️ Extract and analyze in-game data from Rise of Kingdoms (RoK).  
-✔️ Automate real-time data collection from screenshots or video streams.  
-✔️ Process data for leaderboard tracking, event monitoring, or player stats analysis.  
+📂 Contact & Socials
 
-⚙️ **Technology Used:**  
-- Tesseract OCR, EasyOCR, PaddleOCR  
-- Image Preprocessing (Denoising, Sharpening, Adaptive Thresholding)  
-- Edge Detection & Contour Analysis  
+📧 Email: punditpah@gmail.com
 
-🔗 **[Check the Project](https://github.com/punditpahpah/OCR-RokGame-Scanner)**
+🐦 Twitter: @punditpahpah
 
----
+📂 Final Note
 
-### 🎨 NFT Minting Engine for CHRLE
+🗂 Just like a well-organized file cabinet, my GitHub is:
+➡️ Neatly categorized
+➡️ Easy to navigate
+➡️ Ready for collaboration
 
-📌 **Blockchain Integration:**  
-✔️ Smart contract development using **ERC-721**  
-✔️ Metadata structuring, minting logic, and royalty mechanisms  
-✔️ Security-focused contract with **gas optimization**  
+if i can easily do assume what i will do to your project 😁
 
-🖼 **NFT Minting Features:**  
-✔️ **Batch & Single Minting** support  
-✔️ Seamless **wallet connection** (MetaMask, WalletConnect)  
-✔️ **IPFS-based metadata storage**  
-
-🔗 **[Check the Project](https://github.com/punditpahpah/CHRLE-Nft-Minting)**
-
----
-
-### 💘 Dating App for League Connect
-
-📌 **Core Features:**  
-✔️ **User Authentication** (Email, Google, Apple)  
-✔️ **Matching Algorithm** (AI-based or Tinder-style swipe)  
-✔️ **Real-time Messaging & Voice/Video Calls**  
-✔️ **Location-based Matching & Premium Features**  
-
-⚙️ **Tech Stack:**  
-- **Frontend:** Flutter (Dart)  
-- **Backend:** Firebase, Node.js  
-- **Database:** Firestore, PostgreSQL  
-- **Payments:** Stripe, PayPal  
-
-💰 **Monetization:** Subscription Plans, In-App Purchases, Ads  
-
-🔗 **[Check the Project](https://github.com/punditpahpah/league-connect)**
-
----
-
-🚀 **Let's Build Something Amazing Together!** 💡✨  
-💬 Feel free to **connect & collaborate** with me!
+✨ Let’s build something amazing together!
