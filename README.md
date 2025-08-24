@@ -8,6 +8,10 @@ Welcome to my GitHub profile!
 Think of this space as a digital organizer of my skills, projects, and passions.
 Everything is neatly sorted into folders 📂 so you can explore with ease.
 
+
+<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZwYnIweWUzc2xmdW1zbTRvdzN0YTRteTR6Ym55Zzc0MWluczg2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" width="400" alt="Highly Detailed 3D-Rendered Digital Art of Developer at Work"> </p>
+
+
 📂 About Me
 
 💻 Passionate about problem-solving & building innovative solutions
