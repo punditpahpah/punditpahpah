@@ -1,6 +1,6 @@
 👋 Hey, I'm Pah!
 
-Building ideas into reality | Developer | Innovator | Lifelong Learner ✨
+Building ideas into reality | Developer 👨‍💻 | Innovator 🦹 | Lifelong Learner ✨
 
 🗂️ Overview
 
