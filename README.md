@@ -242,7 +242,7 @@
 |----------|--------|
 | 📧 **Email** | punditpah@gmail.com |
 | 🐦 **Twitter** | [@punditpahpah](https://twitter.com/punditpahpah) |
-| 💼 **LinkedIn** | [punditpahpah](https://linkedin.com/in/punditpahpah) |
+| 💼 **LinkedIn** | [punditpahpah](https://linkedin.com/in/punditpahpah](https://www.linkedin.com/in/businesses-automation/) |
 | 💻 **GitHub** | [@punditpahpah](https://github.com/punditpahpah) |
 | 🌐 **Portfolio** | [Coming Soon] |
 
