@@ -234,18 +234,21 @@
 
 ---
 
-## 🔗 **LET'S CONNECT & BUILD** 🤝
+## 🔗 **GET IN TOUCH** 🚀
 
 <p align="center">
   
-| Platform | Handle |
-|----------|--------|
-| 📧 **Email** | punditpah@gmail.com |
-| 🐦 **Twitter** | [@punditpahpah](https://twitter.com/punditpahpah) |
-| 💼 **LinkedIn** | [punditpahpah]([https://linkedin.com/in/punditpahpah](https://www.linkedin.com/in/businesses-automation/)) |
-| 💻 **GitHub** | [@punditpahpah](https://github.com/punditpahpah) |
-| 🌐 **Portfolio** | [Coming Soon] |
+**📧 Email:** punditpah@gmail.com  
+**🐦 Twitter:** [@punditpahpah](https://twitter.com/punditpahpah)  
+**💼 LinkedIn:** [businesses-automation](https://www.linkedin.com/in/businesses-automation/)  
+**💻 GitHub:** [@punditpahpah](https://github.com/punditpahpah)
 
+</p>
+
+<p align="center">
+  <a href="mailto:punditpah@gmail.com?subject=Let's%20Build%20Something%20Amazing">
+    <img src="https://img.shields.io/badge/Ready%20to%20Collaborate%3F%20-Contact%20Me%20Now-success?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
